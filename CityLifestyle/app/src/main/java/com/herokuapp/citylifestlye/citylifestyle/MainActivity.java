@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
-        myWebView.loadUrl("https://citylifestlye.herokuapp.com/");
+        myWebView.loadUrl("https://citylifestyle.herokuapp.com/");
 
     }
 
